@@ -1,19 +1,32 @@
-# Mi Carrera en 4 Páginas
+# 🌐 Mini Sitio Web Personal
 
-Mini-sitio personal en HTML, CSS y JavaScript.
+Este es un proyecto de un **mini-sitio web personal** desarrollado con **HTML, CSS y JavaScript**.  
+El objetivo es mostrar de manera simple y atractiva información personal: descripción, habilidades, logros y gustos.
 
-## Estructura
-- index.html: página de inicio
-- habilidades.html: habilidades y competencias
-- logros.html: logros académicos
-- gustos.html: gustos personales
-- styles.css: estilos
-- script.js: interacción JS (menú hamburguesa)
-- /img/yo.jpg: foto personal
+## 🚀 Características principales
+- Landing page con foto, descripción y enlaces a redes sociales.
+- Páginas adicionales:
+  - **Habilidades** → competencias como Ingeniero/a Informático/a.
+  - **Logros** → principales hitos académicos.
+  - **Gustos** → intereses y hobbies personales.
+- Encabezado (header) y pie de página (footer) comunes en todas las páginas.
+- **Diseño moderno y responsive**: se adapta a pantallas de celular, tablet y escritorio.
+- Código limpio, comentado y fácil de personalizar.
 
-## Cómo correr localmente
-1. Descarga el proyecto y descomprímelo.
-2. Abre index.html en tu navegador.
+## 📂 Estructura del proyecto
+│── index.html # Landing page
+│── habilidades.html # Habilidades y competencias
+│── logros.html # Logros académicos
+│── gustos.html # Gustos personales
+│── css/styles.css # Estilos del sitio
+│── js/script.js # Funciones básicas en JS
+│── README.md # Explicación del proyecto
+│── PROMPT.md # Prompt para recrear/mejorar el proyecto con IA
+└── /images # Carpeta de imágenes (yo.jpg)
 
-## Publicación
-Se puede publicar en GitHub Pages o Netlify. Subir los archivos y obtener un enlace público.
+
+## 🛠️ Tecnologías usadas
+- **HTML5** → estructura de las páginas.  
+- **CSS3** → estilos y diseño responsivo.  
+- **JavaScript** → funcionalidades dinámicas básicas.  
+
